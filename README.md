@@ -1,6 +1,7 @@
-# ayeshanawab514-
+# Hello, I'm Ayesha Nawab 👋
 
-Hi, I'm a Computer Engineering Student 
+I'm a freshman Computer Engineering student at Bilkent University.
 
- I'm a first-year Computer Engineering student at Bilkent University.
- Currently learning Java through CS101, while building my foundations in programming, problem-solving, and computational thinking.
+I'm currently learning programming and computer science through my CS101 course.
+
+I'm interested in software, computer engineering, and technology.
